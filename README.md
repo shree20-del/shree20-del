@@ -82,8 +82,7 @@ An AI-powered personal assistant that integrates with Google Workspace to provid
 - Pandas
 - NumPy
 - Matplotlib
-- Power BI
-- Data Visualization
+-Data Visualization
 - Statistical Analysis
 
 ### Frameworks & Tools
