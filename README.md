@@ -86,9 +86,9 @@ Google Cloud Platform (GCP) • Vertex AI • Firestore • Firebase Cloud Funct
 
 ## 📫 Let's Connect
 
-- LinkedIn:https://www.linkedin.com/in/dhanshree-chaudhari/
-- Email:dhanshreec40@gmail.com
-
+- 📧 Email: dhanshreec40@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dhanshree-chaudhari/
+- 💻 GitHub: https://github.com/shree20-del
 ---
 
-⭐ Open to AI Engineer, Machine Learning Engineer, Data Scientist, Generative AI Engineer, and Data Analytics opportunities.
+⭐ Open to opportunities in Artificial Intelligence, Machine Learning, Data Science, Data Analytics, and Software Development.
