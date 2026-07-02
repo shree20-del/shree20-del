@@ -1,19 +1,35 @@
 # Hi there, I'm Dhanshree Chaudhari 👋
 
-## 🚀 AI & Data Science Engineer
+## Artificial Intelligence & Data Science Student
 
-Passionate AI & Data Science Engineer focused on building intelligent systems that solve real-world problems through Machine Learning, Generative AI, Predictive Analytics, and Data Engineering. I enjoy transforming complex data into actionable insights and scalable AI solutions.
+I'm an Artificial Intelligence & Data Science undergraduate who enjoys building practical software, analytics, and AI solutions.
 
+My interests include Machine Learning, Data Analytics, Predictive Modeling, and Generative AI.      I enjoy transforming raw data into meaningful insights and building applications that solve real-world problems.
 ## 🎓 Education
 
-B.Tech in Artificial Intelligence & Data Science
+Bachelor of Engineering (B.E.)
+
+Artificial Intelligence & Data Science
+
+Rizvi College of Engineering
+
+Mumbai University
+
+Expected Graduation: 2026
 
 ## 💼 Experience
 
-### Unified Mentor | AI & Data Science Intern
-**Duration: 3 Months**
+Worked on industry-focused AI and Data Science projects involving predictive analytics, optimization, and decision-support systems.
 
-Worked on industry-focused AI and Data Science projects involving forecasting, optimization, and decision-support systems.
+Key Contributions
+
+• Built forecasting models using machine learning techniques.
+
+• Analyzed large datasets to identify trends and support business decisions.
+
+• Developed interactive dashboards for data visualization.
+
+• Created optimization models for logistics and resource allocation.
 
 ### 📈 Predictive Forecasting of Care Load & Placement Demand
 - Developed forecasting models to predict future care load and placement demand.
