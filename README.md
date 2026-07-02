@@ -7,29 +7,24 @@ I'm an Artificial Intelligence & Data Science undergraduate who enjoys building 
 My interests include Machine Learning, Data Analytics, Predictive Modeling, and Generative AI.      I enjoy transforming raw data into meaningful insights and building applications that solve real-world problems.
 ## 🎓 Education
 
-Bachelor of Engineering (B.E.)
-
+**Bachelor of Engineering (B.E.)**
 Artificial Intelligence & Data Science
 
-Rizvi College of Engineering
+Rizvi College of Engineering | Mumbai University
 
-Mumbai University
-
-Expected Graduation: 2026
-
+**Expected Graduation:** 2026
 ## 💼 Experience
+
+### AI & Data Science Intern | Unified Mentor
+**Duration:** 3 Months
 
 Worked on industry-focused AI and Data Science projects involving predictive analytics, optimization, and decision-support systems.
 
-Key Contributions
-
-• Built forecasting models using machine learning techniques.
-
-• Analyzed large datasets to identify trends and support business decisions.
-
-• Developed interactive dashboards for data visualization.
-
-• Created optimization models for logistics and resource allocation.
+#### Key Contributions
+- Built forecasting models using machine learning techniques.
+- Analyzed structured datasets to identify trends and support business decisions.
+- Developed interactive dashboards for data visualization and reporting.
+- Created optimization models for logistics and resource allocation.
 
 ### 📈 Predictive Forecasting of Care Load & Placement Demand
 - Developed forecasting models to predict future care load and placement demand.
@@ -49,80 +44,39 @@ Key Contributions
 
 ## 🌟 Major Project
 
-### 🧠 NeuronApp – AI Personal Assistant
+### # 🧠 NeuronApp
 
-An AI-powered personal assistant that integrates with Google Workspace to provide semantic memory, intelligent search, daily briefings, and context-aware productivity assistance.
+> AI-powered personal assistant with semantic memory, Google Workspace integration, and Retrieval-Augmented Generation (RAG).
 
-#### Key Features
-- Real-time Google Workspace synchronization
-- Semantic Search using RAG (Retrieval-Augmented Generation)
-- AI-powered Daily Intelligence Briefings
-- Vector Search with Firestore
-- Gemini 2.5 Flash Integration
-- Vertex AI Embeddings
-- Secure Authentication & Biometric Protection
-- Cloud-based scalable architecture
+![React Native](https://img.shields.io/badge/React%20Native-0.84-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange)
+![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-#### Technologies Used
-- React Native
-- TypeScript
-- Firebase
-- Google Cloud Platform
-- Vertex AI
-- Gemini 2.5 Flash
-- Firestore Vector Search
-- Cloud Functions
-- Cloud Tasks
-- Generative AI
+## Demo
 
----
+🎥 Demo Video: Coming Soon
+
+📱 Screenshots below
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Python
-- SQL
-- Java
-- TypeScript
+### Programming
+Python • SQL • Java • TypeScript
 
-### Artificial Intelligence & Machine Learning
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- Time Series Forecasting
-- Predictive Analytics
-- Recommendation Systems
+### Data Analytics
+Pandas • NumPy • Matplotlib • Data Visualization • Statistical Analysis
 
-### Data Science
-- Pandas
-- NumPy
-- Matplotlib
--Data Visualization
-- Statistical Analysis
+### Machine Learning & AI
+Scikit-learn • TensorFlow • PyTorch • NLP • Generative AI • Predictive Analytics • Time Series Forecasting
 
 ### Frameworks & Tools
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Streamlit
-- React Native
-- Firebase
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Google Colab
+React Native • Streamlit • Firebase • Git • GitHub • Jupyter Notebook • VS Code • Google Colab
 
-### Cloud & AI Platforms
-- Google Cloud Platform (GCP)
-- Vertex AI
-- Firestore
-- Firebase Cloud Functions
-- Cloud Tasks
+### Cloud Platforms
+Google Cloud Platform (GCP) • Vertex AI • Firestore • Firebase Cloud Functions • Cloud Tasks
 
----
-
-## 🎯 Current Focus
+## 🎯 Currently Focus
 - Generative AI
 - Large Language Models (LLMs)
 - Agentic AI Systems
